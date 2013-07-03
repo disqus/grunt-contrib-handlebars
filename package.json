@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "handlebars": "git://github.com/disqus/handlebars.js.git",
+    "handlebars": "git://github.com/disqus/handlebars.js.git#3266569",
     "grunt-lib-contrib": "~0.5.1"
   },
   "devDependencies": {
